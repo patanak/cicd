@@ -3,7 +3,7 @@
 terraform {
   required_version = "~> 1.5"
   backend "gcs" {
-    bucket  = "btg_aecorsoft_bucket"
+    bucket  = "btg_cicd_1"
     prefix  = "cicd_1/ep1"
   }
 }
