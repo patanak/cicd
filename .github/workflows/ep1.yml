@@ -6,7 +6,7 @@ on:
   push:
     branches:
       - 'main'
-      - 'cicd'
+      - 'ep1'
     paths:
       - 'ep1/**'
 
